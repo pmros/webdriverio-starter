@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/pmros/webdriverio-starter.svg?branch=master)](https://travis-ci.org/pmros/webdriverio-starter)
+
 # webdriverio-starter
 A webdriverio starter project
 
