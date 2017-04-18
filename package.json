@@ -15,6 +15,7 @@
     "babel-register": "^6.24.1",
     "connect": "^3.6.0",
     "gulp": "^3.9.1",
+    "gulp-webdriver": "^2.0.3",
     "serve-static": "^1.12.1",
     "wdio-mocha-framework": "^0.5.9",
     "wdio-phantomjs-service": "^0.2.2",
